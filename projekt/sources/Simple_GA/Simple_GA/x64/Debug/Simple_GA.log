@@ -1,0 +1,5 @@
+﻿  Simple_GA.cpp
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\sources\Simple_GA\Simple_GA.cpp(482,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\sources\Simple_GA\Simple_GA.cpp(487,9): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\sources\Simple_GA\Simple_GA.cpp(491,18): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  Simple_GA.vcxproj -> C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\sources\Simple_GA\x64\Debug\Simple_GA.exe

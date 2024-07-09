@@ -1,0 +1,11 @@
+﻿  E-reader genetic algorithm.cpp
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\E-Reader-Genetic-Algorithm\E-reader genetic algorithm.cpp(534,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\E-Reader-Genetic-Algorithm\E-reader genetic algorithm.cpp(538,38): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\E-Reader-Genetic-Algorithm\E-reader genetic algorithm.cpp(542,18): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\E-Reader-Genetic-Algorithm\E-reader genetic algorithm.cpp(732,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\E-Reader-Genetic-Algorithm\E-reader genetic algorithm.cpp(732,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\E-Reader-Genetic-Algorithm\E-reader genetic algorithm.cpp(736,78): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\E-Reader-Genetic-Algorithm\E-reader genetic algorithm.cpp(736,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\E-Reader-Genetic-Algorithm\E-reader genetic algorithm.cpp(740,78): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\E-Reader-Genetic-Algorithm\E-reader genetic algorithm.cpp(740,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  E-reader genetic algorithm.vcxproj -> C:\Users\Wojciech\OneDrive\Documents\semestr4\C++\laby\Wojciech-Michaluk-Projekt\E-Reader-Genetic-Algorithm\x64\Debug\E-reader genetic algorithm.exe
